@@ -2,7 +2,6 @@
 
 🎯 **Administrador de Sistemas** con pasión por las **nuevas tecnologías** y una mentalidad de mejora constante. Me dedico a mantener infraestructuras seguras, estables y eficientes, mientras exploro herramientas modernas que optimizan el trabajo en el sector informático.
 
----
 
 ## 🚀 Sobre mí
 
@@ -11,7 +10,6 @@
 - 💡 Me interesa todo lo relacionado con infraestructuras modernas, scripting, y tecnología de vanguardia.
 - 💬 Siempre abierto a aprender y colaborar en proyectos interesantes.
 
----
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -22,20 +20,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
----
 
 ## 📈 Estadísticas de GitHub
 
 ![notpepejulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=notpepejulian&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notpepejulian&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 ¿Cómo contactarme?
 
 - [📧 Email](mailto:nachooosnchezz@gmail.com)
 - 💼 LinkedIn (https://www.linkedin.com/in/nacho-s%C3%A1nchez-garc%C3%ADa-92840327a/)
 
----
 
 Gracias por visitar mi perfil 🙌 ¡Siempre aprendiendo, siempre avanzando!
