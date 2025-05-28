@@ -30,7 +30,7 @@
 ## 📫 ¿Cómo contactarme?
 
 - [📧 Email](mailto:nachooosnchezz@gmail.com)
-- [💼 LinkedIn(https://www.linkedin.com/in/nacho-s%C3%A1nchez-garc%C3%ADa-92840327a/)]
+- [💼 LinkedIn](https://www.linkedin.com/in/nacho-s%C3%A1nchez-garc%C3%ADa-92840327a/)
 
 
 Gracias por visitar mi perfil 🙌 ¡Siempre aprendiendo, siempre avanzando!
