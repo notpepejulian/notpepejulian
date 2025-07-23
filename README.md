@@ -24,11 +24,6 @@ Me gusta indagar en proyectos propias, aprender nuevas herramientas que aparecen
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
-
-## 📈 Estadísticas de GitHub
-
-
-
 ## 📫 ¿Cómo contactarme?
 
 - [📧 Email](mailto:nachooosnchezz@gmail.com)
