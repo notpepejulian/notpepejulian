@@ -15,7 +15,7 @@ Me gusta indagar en proyectos propias, aprender nuevas herramientas que aparecen
 - 💬 Siempre abierto a aprender y colaborar en proyectos interesantes.
 
 
-### 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash)
@@ -25,7 +25,7 @@ Me gusta indagar en proyectos propias, aprender nuevas herramientas que aparecen
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
 
-### 📈 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 
 
